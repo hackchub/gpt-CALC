@@ -1,4 +1,4 @@
-# TI-32
+# gpt-CALC
 
 ![built pcb](./pcb/built.png)
 
